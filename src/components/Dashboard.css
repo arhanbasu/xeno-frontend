@@ -1,0 +1,34 @@
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.dashboard-container button {
+    width: auto;
+    margin: 10px;
+}
+
+.filter-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+.filter-form input {
+    width: 200px;
+    text-align: center;
+}
+
+.filter-form button {
+    width: 100px;
+}
+
+.audience-info {
+    font-size: 18px;
+    color: #007bff;
+    margin-top: 10px;
+}
+
